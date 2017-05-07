@@ -1,6 +1,10 @@
 # generate-random-password
 Generate a random password consisting of upper and lowercase alpha-numeric characters and special characters with inputs for length, and percent chance of special characters occuring.
 
+Special Characters are:  !  #  $  %  &  *  +  ?  ~   @
+
+Makes use of seedRandom.js by David Bau for random number generation.
+
 *DEFAULT*:
 - Return alpha-numeric characters, roughly 80% chance for each letter
 - Return special characters, roughly 20% chance for each letter
