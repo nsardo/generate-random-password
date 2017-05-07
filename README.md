@@ -3,7 +3,7 @@ Generate a random password consisting of upper and lowercase alpha-numeric chara
 
 Special Characters are:  !  #  $  %  &  *  +  ?  ~   @
 
-Makes use of seedRandom.js by David Bau for random number generation.
+Makes use of seedrandom.js by David Bau for random number generation.
 
 *DEFAULT*:
 - Return alpha-numeric characters, roughly 80% chance for each letter
