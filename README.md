@@ -1,5 +1,6 @@
 # generate-random-password
 ## for Node / Npm and Client Side JS
+[![npm version](https://badge.fury.io/js/generate-random-password.svg)](https://badge.fury.io/js/generate-random-password)
 
 Generate a random password consisting of upper and lowercase alpha-numeric characters and special characters with inputs for length, and percent chance of special characters occuring.
 
