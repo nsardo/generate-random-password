@@ -6,6 +6,7 @@
 /*
 | USING:
 | seedrandom.js
+| https://github.com/davidbau/seedrandom
 | =============
 | Seeded random number generator for Javascript.
 | version 2.3.10
